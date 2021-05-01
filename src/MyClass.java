@@ -9,6 +9,8 @@ public class MyClass {
         System.out.println("benim kodum");
 
         System.out.println("sena'nın conflict'i");
+        
+        System.out.println("sena'nın yeni kodu");
 
 
         System.out.println("son kodum");
