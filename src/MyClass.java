@@ -5,5 +5,6 @@ public class MyClass {
         System.out.println("ikinci commit");
         System.out.println("ucuncu commit");
         System.out.println("sena'nın dorduncu commit'i");
+        System.out.println("sena'nın conflict'i");
     }
 }
