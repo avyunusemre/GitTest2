@@ -10,5 +10,7 @@ public class MyClass {
 
         System.out.println("sena'nın conflict'i");
 
+
+        System.out.println("son kodum");
     }
 }
